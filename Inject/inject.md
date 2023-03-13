@@ -1,5 +1,6 @@
 # Hack the Box Inject 
-3/13/2023
+This is a walkthrough for how I got user and root flags for the Inject Hack the Box machine. 
+Date: 3/13/2023
 
 Target Machine IP: 10.10.11.204
 
